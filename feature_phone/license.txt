@@ -1,0 +1,11 @@
+Model Information:
+* title:	Feature Phone
+* source:	https://sketchfab.com/3d-models/feature-phone-1f8ce491970449fe8515c80eb3a8356c
+* author:	MD.Jobair Hossain (https://sketchfab.com/samrat33k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Feature Phone" (https://sketchfab.com/3d-models/feature-phone-1f8ce491970449fe8515c80eb3a8356c) by MD.Jobair Hossain (https://sketchfab.com/samrat33k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
